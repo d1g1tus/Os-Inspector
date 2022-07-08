@@ -202,9 +202,5 @@ class temp:
             except PermissionError:
                 pass
 
-def escrig(command):
-
-    print(random.choice(mv.frases))
-
 def exit(opt):
     sys.exit()
